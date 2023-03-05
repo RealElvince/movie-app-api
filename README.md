@@ -8,4 +8,4 @@
 
 ![4](https://user-images.githubusercontent.com/124202145/222981564-ea84e142-ec48-41aa-ae42-2931f7159c59.png)
 # movie overview page
-![3](https://user-images.githubusercontent.com/124202145/222981623-1c46b756-6491-4476-b17c-78e4add06b98.png)
+![1](https://user-images.githubusercontent.com/124202145/222981677-8851baba-ee75-4383-b176-9f5f9c13e8bb.png)
