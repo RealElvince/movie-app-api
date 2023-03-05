@@ -1,4 +1,4 @@
-# leagueapi
+# Movie App API
 
 A new Flutter project.
 
