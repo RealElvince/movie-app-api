@@ -7,3 +7,5 @@
 ![3](https://user-images.githubusercontent.com/124202145/222981485-0b11316f-73f4-419b-93f0-b8107dc487e4.png)
 
 ![4](https://user-images.githubusercontent.com/124202145/222981564-ea84e142-ec48-41aa-ae42-2931f7159c59.png)
+# movie overview page
+![3](https://user-images.githubusercontent.com/124202145/222981623-1c46b756-6491-4476-b17c-78e4add06b98.png)
